@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+QOTL - Quality of Life Tracker
+Log and track activies and events that affect your quality of life.
+View graphs comparing your quality of life with other variables, such as regulary activies, events, and weather.
+
 ### Features
-Include Features here
+End of Day, QoL Rating
+Graphing for QoL vs Other Variables
+QoL Affecting Activities/Events Logging
+
 ### Technologies
-Include Technologies here
+Apple Calendar Integration
+Apple Location Integration
+Swift w/ Xcode
+Weather Channel API
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to Use APIs
+iOS Development w/ Swift in Xcode
+
+### Project Tracker
+Pivotal Tracker
